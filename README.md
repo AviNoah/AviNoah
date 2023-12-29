@@ -12,9 +12,8 @@ Welcome to my GitHub profile. I'm passionate about programming, networking, and 
 ## 🚀 Technologies & Tools
 
 - **Languages:** Python, Java, C#, C/C++, JavaScript
-- **Frameworks:** (Add frameworks if applicable)
 - **Tools:** Android Studio, Git, Docker, Regex
-- **Databases:** Firebase
+- **Databases:** Firebase, SQLite, Microsoft Access
 - **Data Analysis:** Pandas
 - **Web Development:** p5.js
 - **BI Tools:** Microsoft Power BI, Microsoft Excel
