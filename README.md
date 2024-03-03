@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Avi Noah!
 
-Welcome to my GitHub profile. I'm passionate about programming, networking, and security, with a keen interest in AI.
+Welcome to my GitHub profile. I'm passionate about programming, web development, networking, and security, with a keen interest in AI.
 
 ## 🔍 About Me
 
@@ -15,7 +15,7 @@ Welcome to my GitHub profile. I'm passionate about programming, networking, and 
 - **Tools:** Android Studio, Git, Docker, Regex
 - **Databases:** Firebase, SQLite, Microsoft Access
 - **Data Analysis:** Pandas
-- **Web Development:** p5.js
+- **Web Development:** Javascript, html, css
 - **BI Tools:** Microsoft Power BI, Microsoft Excel
 
 ## 🌐 Connect with Me
