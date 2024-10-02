@@ -1,28 +1,24 @@
 # 👋 Hi, I'm Avi Noah!
 
-Welcome to my GitHub profile. I'm passionate about programming, web development, networking, and security, with a keen interest in AI.
+Welcome to my GitHub profile. I'm passionate about programming and web development and research.
 
 ## 🔍 About Me
 
-- 🌱 I’m currently learning Python, Java, C#, and JavaScript.
-- 👀 I enjoy exploring various aspects of technology, from software development to AI.
-- 💼 Aspiring to collaborate on exciting projects that push the boundaries of innovation.
+- 🛠️ I’m currently using Python, Java, C#, and JavaScript as my main go to languages.
+- 👀 I have a keen interest in web research.
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/avi-n-286283292/).
 
 ## 🚀 Technologies & Tools
 
 - **Languages:** Python, Java, C#, JavaScript
-- **Tools:** Android Studio, Git, Docker, Regex
-- **Databases:** Firebase, SQLite, Microsoft Access
-- **Data Analysis:** Pandas
-- **Web Development:** Javascript, html, css
-- **BI Tools:** Microsoft Power BI, Microsoft Excel
+- **Tools:** Git, Docker, Kubernates, AWS.
+- **Databases:** S3, SQllite, postgres.
+- **Data Analysis:** Pandas, dash.
+- **Web Development:** Flask, starlette, dash.
 
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/avi-n-286283292/)
-
-Feel free to explore my repositories and connect with me. Let's build something awesome together!
 
 <!---
 AviNoah/AviNoah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
