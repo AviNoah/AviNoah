@@ -12,7 +12,7 @@ Welcome to my GitHub profile. I'm passionate about programming and web developme
 
 - **Languages:** Python, Java, C#, JavaScript
 - **Tools:** Git, Docker, Kubernates, AWS.
-- **Databases:** S3, SQllite, postgres.
+- **Databases:** S3, Sqlite3, postgres.
 - **Data Analysis:** Pandas, dash.
 - **Web Development:** Flask, starlette, dash, uvicorn.
 
