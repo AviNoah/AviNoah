@@ -14,7 +14,7 @@ Welcome to my GitHub profile. I'm passionate about programming and web developme
 - **Tools:** Git, Docker, Kubernates, AWS.
 - **Databases:** S3, SQllite, postgres.
 - **Data Analysis:** Pandas, dash.
-- **Web Development:** Flask, starlette, dash.
+- **Web Development:** Flask, starlette, dash, uvicorn.
 
 ## 🌐 Connect with Me
 
